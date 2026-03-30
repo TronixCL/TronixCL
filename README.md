@@ -1,4 +1,3 @@
-- Angelo De La Rivera
 - Estudiante de Ingeniería Civil Informatica
 - Trabajando en proyectos universitarios
 - contacto: angelo.delarivera@estudiantes.uv.cl
